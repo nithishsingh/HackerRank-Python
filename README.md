@@ -6,10 +6,10 @@ This repository contains 3 solutions to Hackerrank practice problems with Python
 
 Updated daily :) If it was helpful please press a star.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/nithishsingh/HackerrankPractice.svg)](https://github.com/nithishsingh/HackerRank-Python) 
-[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/nithishsingh/HackerrankPractice.svg)](https://github.com/nithishsingh/HackerRank-Python)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/nithishsingh/HackerrankPractice.svg)](https://github.com/nithishsingh/HackerRank-Python) 
-[![GitHub stars](https://img.shields.io/github/stars/nithishsingh/HackerrankPractice.svg)](https://github.com/nithishsingh/HackerRank-Python)
+[![GitHub last commit](https://img.shields.io/github/last-commit/nithishsingh/HackerrankPractice.svg)](https://github.com/nithishsingh/HackerRank-Solution) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/nithishsingh/HackerrankPractice.svg)](https://github.com/nithishsingh/HackerRank-Solution)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/nithishsingh/HackerrankPractice.svg)](https://github.com/nithishsingh/HackerRank-Solution) 
+[![GitHub stars](https://img.shields.io/github/stars/nithishsingh/HackerrankPractice.svg)](https://github.com/nithishsingh/HackerRank-Solution)
 
 - .github
     ISSUE_TEMPLATE
