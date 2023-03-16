@@ -5,7 +5,7 @@ HackerRank Solution to Practice Problem in Various Domain.
 
 # Only For Educational Purpose use it as Reference not a point of solution
 
-This repository contains 31 solutions to Hackerrank practice problems with Python 3.
+This repository contains 55 solutions to Hackerrank practice problems with Python 3.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -16,6 +16,8 @@ Updated daily :) If it was helpful please press a star.
 
 - .github
     ISSUE_TEMPLATE
+- Interview Preparation Kit
+    1 Week Preparation Kit
 - Python
     01. Introduction
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/Python/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Python.py) | Score: 5
@@ -46,5 +48,25 @@ Updated daily :) If it was helpful please press a star.
         - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/Python/03.%20Strings/011.%20Capitalize!.py) | Score: 20
         - TheMergeTool | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/Python/03.%20Strings/012.%20TheMergeTool.py) | Score: 40
         - TheMinionGame | [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/Python/03.%20Strings/013.%20TheMinionGame.py) | Score: 40
+- SQL
+    01. Basic Select
+        - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
+        - Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/002.%20Revising%20the%20Select%20Query%20II.sql) | Score: 10
+        - Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/003.%20Select%20All.sql) | Score: 10
+        - Select By ID | [Problem](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/004.%20Select%20By%20ID.sql) | Score: 10
+        - Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/005.%20Japanese%20Cities'%20Attributes.sql) | Score: 10
+        - Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/006.%20Japanese%20Cities'%20Names.sql) | Score: 10
+        - Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/007.%20Weather%20Observation%20Station%201.sql) | Score: 15
+        - Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/008.%20Weather%20Observation%20Station%203.sql) | Score: 10
+        - Weather Observation Station 4 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/009.%20Weather%20Observation%20Station%204.sql) | Score: 10
+        - Weather Observation Station 5 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/010.%20Weather%20Observation%20Station%205.sql) | Score: 30
+        - Weather Observation Station 6 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/011.%20Weather%20Observation%20Station%206.sql) | Score: 10
+        - Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/012.%20Weather%20Observation%20Station%207.sql) | Score: 10
+        - Weather Observation Station 8 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/013.%20Weather%20Observation%20Station%208.sql) | Score: 15
+        - Weather Observation Station 9 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/01.%20Basic%20Select/014.%20Weather%20Observation%20Station%209.sql) | Score: 10
+    02. Advanced Select
+        - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/02.%20Advanced%20Select/001.%20Type%20of%20Triangle.sql) | Score: 20
+        - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/02.%20Advanced%20Select/002.%20The%20PADS.sql) | Score: 30
+        - Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/nithishsingh/HackerRank-Solution/blob/master/SQL/02.%20Advanced%20Select/004.%20Binary%20Tree%20Nodes.sql) | Score: 30
 - asset
     png
